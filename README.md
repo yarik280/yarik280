@@ -1,5 +1,5 @@
 # HelloWorld("print")
-![Текст описания](https://i.pinimg.com/originals/38/f9/f4/38f9f464b2d7802a0d80cbcebd47d1d9.gif)
+!<div align="center">[Текст описания](https://i.pinimg.com/originals/38/f9/f4/38f9f464b2d7802a0d80cbcebd47d1d9.gif)</div>
 
 
 

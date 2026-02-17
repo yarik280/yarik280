@@ -12,7 +12,7 @@
 
 |🫩 name | Yaroslav |
 | ----------- | ----------- |
-|🇷🇺 languages   | c++ c# python |
+|🇷🇺 languages   | c++, c#, python |
 |💻 hobby | music, game, coding |
 
 <br>
